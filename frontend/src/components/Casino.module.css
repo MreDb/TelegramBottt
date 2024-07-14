@@ -1,0 +1,35 @@
+.casino {
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.casino h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.casino .slots {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.casino .slot {
+    font-size: 40px;
+    margin: 0 5px;
+}
+
+.casino .balance {
+    margin-bottom: 10px;
+}
+
+.casino .betButton {
+    background-color: #ff9800;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
